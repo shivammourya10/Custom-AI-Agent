@@ -115,7 +115,7 @@ Agent: Automatically fetches both pieces of information and responds in natural 
 ### Installation
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/shivammourya10/Custom-AI-Agent.git
 cd Custom_AI_Agent
 
 # Install dependencies
@@ -156,7 +156,7 @@ Enter your problem: stop
 
 Enter your problem: I need weather for Mumbai and Bitcoin price
 AI: The weather in Mumbai is ☀️ +32°C
-    Bitcoin (BTC): $43,250.67 (+1.25%)
+    Bitcoin (BTC): $43,250.67 
 
 Enter your problem: What's 25 + 75?
 AI: 100
@@ -195,31 +195,24 @@ We welcome contributions! Here's how you can help:
 ### Development Setup
 ```bash
 # Fork the repository
-git fork <repository-url>
+git fork https://github.com/shivammourya10/Custom-AI-Agent.git
 
 # Create feature branch
 git checkout -b feature/new-api-integration
 
-# Make changes and test
-npm test
+# Make changes and test 
 
 # Submit pull request
 git push origin feature/new-api-integration
 ```
 
-## License 📄
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Support 💬
 
-- 📧 Email: support@customaiagent.com
-- 💬 Discord: [Join our community](https://discord.gg/customaiagent)
-- 📚 Documentation: [Full docs](https://docs.customaiagent.com)
-- 🐛 Issues: [GitHub Issues](https://github.com/username/Custom_AI_Agent/issues)
-
+- 📧 Email: mouryas318@gmail.com
+- X x.com: [Connect](https://x.com/Shivammourya318)
 ---
 
-**Made with ❤️ by developers who believe in the power of AI automation**
+**Made with ❤️ by Shivam Mourya**
+# Happy Learning💫
 
 > "The future belongs to those who can seamlessly blend human creativity with AI capabilities"
